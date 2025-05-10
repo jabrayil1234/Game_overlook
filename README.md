@@ -1,4 +1,3 @@
-# Game_overlook
 # jabrayil
 
 shrek shrek shrek shrek shrek
@@ -11,7 +10,7 @@ shrek shrek shrek shrek shrek
 
 calam MUNЯ ЗОВУТ ШРЕК!
 
-## Running Tests
+## библеотеки 
 
 To run tests, run the following command
 
@@ -20,3 +19,13 @@ import os
 print(os.
 ```
 
+
+## "Пинг-понг"
+
+## "Библеотеки "
+-import pygame 
+## "План "
+- Автоматическое перемещение мяча по сцене :
+- Две ракетки, управляемые с клавиатуры  :
+- Условие проигрыша: проигрывает игрок, пропустивший мяч.
+- Условие выйгрыша: выйгрывает игрок, не пропустивший мяч.
